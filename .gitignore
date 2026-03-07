@@ -1,0 +1,56 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+env/
+venv/
+
+# Byte-compiled / optimized / DLL files
+*.so
+*.py[cod]
+*.pyo
+*.pyd
+
+# Distribution / packaging
+.Python
+download/
+.egg
+.eggs/
+*.egg
+*.egg-info/
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.nox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*,cover
+
+# IDEs and editors
+.idea/
+.vscode/
+
+# Credentials and sensitive data
+keypub.json
+
+# Logs and temporary data
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
