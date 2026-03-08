@@ -45,12 +45,10 @@ python dataflow.py \
 
 ## Pub/Sub
 <img width="1145" height="182" alt="Captura de pantalla 2026-03-06 205223" src="https://github.com/user-attachments/assets/58e4d64a-0534-49ad-b162-036953a215bd" />
-<img width="1080" height="252" alt="Captura de pantalla 2026-03-06 211623" src="https://github.com/user-attachments/assets/f5fbdf58-2d1c-4c64-bd3f-89e427195adc" />
-
 
 ## DataFlow
 <img width="1346" height="768" alt="Captura de pantalla 2026-03-06 211604" src="https://github.com/user-attachments/assets/94eb8497-b994-4f3e-a717-f83e6f994f93" />
-
+<img width="1080" height="252" alt="Captura de pantalla 2026-03-06 211623" src="https://github.com/user-attachments/assets/f5fbdf58-2d1c-4c64-bd3f-89e427195adc" />
 
 ## BigQuery
 <img width="996" height="355" alt="Captura de pantalla 2026-03-06 211539" src="https://github.com/user-attachments/assets/ea84962d-3d64-4bea-9ae9-dc8dcf39ad43" />
